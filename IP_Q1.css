@@ -65,6 +65,13 @@ button {
 button:hover {
     background-color: #00925c;
 }
+footer{
+    text-align: center;
+    margin-top:60px;
+    padding: 20px;
+    font-size:0.9em;
+    color:#666;
+
 
 
 
